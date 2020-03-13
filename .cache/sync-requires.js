@@ -6,8 +6,8 @@ const preferDefault = m => m && m.default || m
 
 exports.components = {
   "component---src-templates-index-page-js": hot(preferDefault(require("/Users/ytwater/sbcc/temp-netlify-cms/src/templates/index-page.js"))),
-  "component---src-templates-blog-post-js": hot(preferDefault(require("/Users/ytwater/sbcc/temp-netlify-cms/src/templates/blog-post.js"))),
   "component---src-templates-product-page-js": hot(preferDefault(require("/Users/ytwater/sbcc/temp-netlify-cms/src/templates/product-page.js"))),
+  "component---src-templates-blog-post-js": hot(preferDefault(require("/Users/ytwater/sbcc/temp-netlify-cms/src/templates/blog-post.js"))),
   "component---src-templates-simple-page-js": hot(preferDefault(require("/Users/ytwater/sbcc/temp-netlify-cms/src/templates/simple-page.js"))),
   "component---src-templates-character-page-js": hot(preferDefault(require("/Users/ytwater/sbcc/temp-netlify-cms/src/templates/character-page.js"))),
   "component---src-templates-tags-js": hot(preferDefault(require("/Users/ytwater/sbcc/temp-netlify-cms/src/templates/tags.js"))),

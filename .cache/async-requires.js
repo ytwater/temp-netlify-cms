@@ -3,8 +3,8 @@ const preferDefault = m => m && m.default || m
 
 exports.components = {
   "component---src-templates-index-page-js": () => import("./../src/templates/index-page.js" /* webpackChunkName: "component---src-templates-index-page-js" */),
-  "component---src-templates-blog-post-js": () => import("./../src/templates/blog-post.js" /* webpackChunkName: "component---src-templates-blog-post-js" */),
   "component---src-templates-product-page-js": () => import("./../src/templates/product-page.js" /* webpackChunkName: "component---src-templates-product-page-js" */),
+  "component---src-templates-blog-post-js": () => import("./../src/templates/blog-post.js" /* webpackChunkName: "component---src-templates-blog-post-js" */),
   "component---src-templates-simple-page-js": () => import("./../src/templates/simple-page.js" /* webpackChunkName: "component---src-templates-simple-page-js" */),
   "component---src-templates-character-page-js": () => import("./../src/templates/character-page.js" /* webpackChunkName: "component---src-templates-character-page-js" */),
   "component---src-templates-tags-js": () => import("./../src/templates/tags.js" /* webpackChunkName: "component---src-templates-tags-js" */),
