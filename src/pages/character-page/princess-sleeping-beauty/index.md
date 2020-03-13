@@ -40,6 +40,8 @@ gallery:
 ---
 # Sleeping Beauty
 
+Hello There
+
 To book Sleeping Beauty for your royal celebration, reserve online or call us at the castle at (858) 848-0008.
 
 <div class="boxed">
